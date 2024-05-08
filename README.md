@@ -1,6 +1,5 @@
 # HaruMate
 ## 프로젝트 소개
-##수정1
 
 <p align="center">
   <br>
